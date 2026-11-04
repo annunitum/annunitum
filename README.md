@@ -4,7 +4,7 @@ Founder of Antares
 
 Building the safety layer every Solana trader deserves.
 
-antaresscan.com · x.com/antaresscan
+https://antaresscan.com/ · https://x.com/antaresscan
 
 </div> <br>
 
