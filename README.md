@@ -38,4 +38,33 @@ It runs automatically on the platforms you already trade on, and shows you what 
 
 | | |
 |---|---|
-| Platforms | DexScreener,
+| Platforms | DexScreener, pump.fun, Birdeye, Photon, Axiom, GMGN, Telemetry, GeckoTerminal |
+| Friction | No clicks, no copy-pasting, no wallet connection |
+| Engine | 1,000-point risk score from 6 independent layers, cross-validated before every verdict |
+| Detects | Wash trading, bundled wallets, insider supply, copycat tokens, unlocked liquidity, exit traps |
+| Verdict | SAFE, CAUTION, DANGER or RUG RISK, in seconds |
+
+<br>
+<br>
+
+<div align="center">
+
+## BUILT ALONE, DAY AND NIGHT
+
+</div>
+
+7 months of development · 3,000+ contributions · One person
+
+Everything, from the engine to the extension, the website, the brand and the community.
+
+The source code is private to protect the detection logic from the people it's designed to catch. Access is available on request for partners and grant reviewers.
+
+<br>
+
+<div align="center">
+
+---
+
+Stop trusting. Start scanning.
+
+</div>
