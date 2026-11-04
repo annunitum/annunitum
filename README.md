@@ -22,10 +22,9 @@ So I spent the last 7 months, day and night, building the tool I wish I'd had.
 
 <br> <div align="center">
 ANTARES
+</div>
 
 A free Chrome extension that sees the rug before you buy.
-
-</div>
 
 It runs automatically on the platforms you already trade on, and shows you what the chart won't: who really holds the supply, whether the volume is real, and whether there's an exit when it turns.
 
@@ -37,10 +36,9 @@ Detects	Wash trading, bundled wallets, insider supply, copycat tokens, unlocked 
 Verdict	SAFE, CAUTION, DANGER or RUG RISK, in seconds
 <br> <div align="center">
 BUILT ALONE, DAY AND NIGHT
+</div>
 
 7 months of development · 3,000+ contributions · One person
-
-</div>
 
 One person behind the engine, the extension, the website, the brand and the community.
 
