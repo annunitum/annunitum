@@ -20,7 +20,7 @@ I went through that loop more times than I want to admit. Then I decided it woul
 
 So I spent the last 7 months, day and night, building the tool I wish I'd had.
 
-<div align="center">
+<br> <div align="center">
 ANTARES
 </div>
 
@@ -34,7 +34,7 @@ Friction	No clicks, no copy-pasting, no wallet connection
 Engine	1,000-point risk score from 6 independent layers, cross-validated before every verdict
 Detects	Wash trading, bundled wallets, insider supply, copycat tokens, unlocked liquidity, exit traps
 Verdict	SAFE, CAUTION, DANGER or RUG RISK, in seconds
-<br> <div align="center">
+<br> <br> <div align="center">
 BUILT ALONE, DAY AND NIGHT
 </div>
 
