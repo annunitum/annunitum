@@ -7,7 +7,7 @@ Stop trusting. Start scanning.
 https://antaresscan.com / https://x.com/antaresscan
 
 </div>
-The story
+The story:
 
 I know the feeling, because I lived it.
 
