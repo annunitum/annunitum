@@ -4,7 +4,7 @@ Founder of Antares
 
 Stop trusting. Start scanning.
 
-Website · X
+antaresscan.com / https://x.com/antaresscan
 
 </div>
 The story
