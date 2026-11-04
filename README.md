@@ -1,13 +1,12 @@
 <div align="center">
-I got rugged. So I built the thing that stops it.
+I got rugged too many times. So I built the tool that stops it.
 Founder of Antares
 
-Stop trusting. Start scanning.
+Building the safety layer every Solana trader deserves.
 
-https://antaresscan.com / https://x.com/antaresscan
+antaresscan.com · x.com/antaresscan
 
-</div>
-The story
+</div> <br>
 
 I know the feeling, because I lived it.
 
@@ -21,9 +20,12 @@ I went through that loop more times than I want to admit. Then I decided it woul
 
 So I spent the last 7 months, day and night, building the tool I wish I'd had.
 
-Antares
+<br> <div align="center">
+ANTARES
 
 A free Chrome extension that sees the rug before you buy.
+
+</div>
 
 It runs automatically on the platforms you already trade on, and shows you what the chart won't: who really holds the supply, whether the volume is real, and whether there's an exit when it turns.
 
@@ -33,14 +35,18 @@ Friction	No clicks, no copy-pasting, no wallet connection
 Engine	1,000-point risk score from 6 independent layers, cross-validated before every verdict
 Detects	Wash trading, bundled wallets, insider supply, copycat tokens, unlocked liquidity, exit traps
 Verdict	SAFE, CAUTION, DANGER or RUG RISK, in seconds
-Built alone, day and night
-7 months of development
-3,000+ contributions
-One person behind the engine, the extension, the website, the brand and the community
+<br> <div align="center">
+BUILT ALONE, DAY AND NIGHT
+
+7 months of development · 3,000+ contributions · One person
+
+</div>
+
+One person behind the engine, the extension, the website, the brand and the community.
 
 The source code is private to protect the detection logic from the people it's designed to catch. Access is available on request for partners and grant reviewers.
 
-<div align="center">
+<br> <div align="center">
 
 Stop trusting. Start scanning.
 
