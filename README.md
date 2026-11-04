@@ -20,7 +20,7 @@ I went through that loop more times than I want to admit. Then I decided it woul
 
 So I spent the last 7 months, day and night, building the tool I wish I'd had.
 
-<br> <div align="center">
+<div align="center">
 ANTARES
 </div>
 
@@ -40,7 +40,7 @@ BUILT ALONE, DAY AND NIGHT
 
 7 months of development · 3,000+ contributions · One person
 
-One person behind the engine, the extension, the website, the brand and the community.
+Everything, from the engine to the extension, the website, the brand and the community.
 
 The source code is private to protect the detection logic from the people it's designed to catch. Access is available on request for partners and grant reviewers.
 
